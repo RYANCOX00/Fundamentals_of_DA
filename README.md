@@ -24,3 +24,7 @@ Attempted to split each line where there is more than 1 space and re-join them w
 And write to a CSV file. 
 Problem is that there are mutliple lines where course name has more than 2 spaces. 
 Going to attempt to reconfigure a full match regular expression and add a comma after each group. 
+
+
+## 3/11/2021
+RE is almost there however not capturing courses with no points assigned. Needs amendment.
