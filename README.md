@@ -1,4 +1,5 @@
-![GMIT Logo](https://www.nightcourses.com/wp-content/uploads/2011/12/gmitlogo.jpg)
+![GMIT](https://www.agilitypr.com/wp-content/uploads/2020/09/data-1-2.jpg)
+
 
 # Fundamentals of Data Analysis Project
 The purpose of this repository is for project submission for the Fundamentals of Data Analysis assessment in Galway-Mayo Institute of Technology for the academic year 2021/2022. 
@@ -148,7 +149,7 @@ plt.show()
 #### Code rendered for Petal Length
 
 
-![Petal_lenght](data\Petal_Lenght_snip.png)
+![Petal_lenght](data\Petal_Lenght.png)
 
 
 ### cao.ipynb
