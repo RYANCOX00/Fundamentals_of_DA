@@ -1,4 +1,4 @@
-![GMIT Logo](data\gmitlogo.jpg)
+![GMIT Logo](https://www.nightcourses.com/wp-content/uploads/2011/12/gmitlogo.jpg)
 
 # Fundamentals of Data Analysis Project
 The purpose of this repository is for project submission for the Fundamentals of Data Analysis assessment in Galway-Mayo Institute of Technology for the academic year 2021/2022. 
