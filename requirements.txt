@@ -1,0 +1,6 @@
+Should the user decide not to use Anaconda. You can install the below the packages by calling the below on their command line:  
+
+- pip install pandas
+- pip install matplotlib
+- pip install numpy 
+jupyter
