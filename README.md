@@ -32,6 +32,10 @@ The workbook then provides an explanation of three plots listed below.
 
 The plots are then demonstrated by using [Iris Fisher dataset](https://archive.ics.uci.edu/ml/datasets/iris), and a human body mass index data set that was generated randomly using the [Numpy Random package](https://numpy.org/doc/stable/reference/random/generator.html).
 
+Sometimes Github does not render Jupyter Notebooks correctly.  If this occurs, you can view a static version of the pyplot.ipynb Notebook on nbviewer by clicking this icon.   
+
+[![nbviewer](https://user-images.githubusercontent.com/2791223/29387450-e5654c72-8294-11e7-95e4-090419520edb.png)](https://nbviewer.org/github/RYANCOX00/Fundamentals_of_DA/blob/main/pyplot.ipynb)
+
 <br>
 
 ***
@@ -46,6 +50,10 @@ Each years data is loaded into an individuals Pandas dataframe before being join
 
 Upon cleansing the dataframe, the points for each are compared.   The years are compared with histograms, KDE plots, bar plots and pie plots.  It was identified that the points in 2021 rose compared to those in 2020 and 2019 - particularly the courses requiring 500 - 625 points rose dramatically. 
 
+
+A static version of the cao.ipynb Notebook on nbviewer by clicking this icon.   
+
+[![nbviewer](https://user-images.githubusercontent.com/2791223/29387450-e5654c72-8294-11e7-95e4-090419520edb.png)](https://nbviewer.org/github/RYANCOX00/Fundamentals_of_DA/blob/main/cao.ipynb)
 <br>
 
 ***
