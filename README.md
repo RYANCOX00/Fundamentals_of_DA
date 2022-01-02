@@ -146,12 +146,6 @@ plt.show()
 
 <br>
 
-#### Code rendered for Petal Length
-
-
-![Petal_lenght](data\Petal_Lenght.png)
-
-
 ### cao.ipynb
 During the cao analysis, the *spike* and the *upper-band* thresholds were defined in input cell 54.  These can be adjusted by a user to further discover how many of the overall courses required a particular range of courses.  The KDE code at input 59 - 62 will also be adjusted by these parameters. 
 
