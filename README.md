@@ -17,10 +17,6 @@ The repository contains two Jupyter notebooks:
 
 <br>
 
-***
-
-<br>
-
 ### pyplot
 The pyplot workbook provides an introduction to Matplotlib package and an overview of the pyplot sub-package.  Stateful and stateless methods of plotting are discussed and the main structures of a plot are explained such as figures, axes, axis, titles, parameters and styles.  
 
