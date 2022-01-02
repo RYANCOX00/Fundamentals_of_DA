@@ -48,7 +48,7 @@ The CAO workbook provides a demonstration on how to load CAO points from the [CA
 
 Each years data is loaded into an individuals Pandas dataframe before being joined to a common dataframe. 
 
-Upon cleansing the dataframe, the points for each are compared.   The years are compared with histograms, KDE plots, bar plots and pie plots.  It was identified that the points in 2021 rose compared to those in 2020 and 2019 - particularly the courses requiring 500 - 625 points rose dramatically. 
+Upon cleansing the dataframe, the points for each are compared. The years are compared with histograms, KDE plots, bar plots and pie plots.  It was identified that the points in 2021 rose compared to those in 2020 and 2019 - particularly the courses requiring 500 - 625 points rose dramatically. 
 
 
 A static version of the cao.ipynb Notebook on nbviewer by clicking this icon.   
