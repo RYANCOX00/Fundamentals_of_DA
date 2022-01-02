@@ -120,7 +120,7 @@ petal_length = [setosa.iloc[:,2], versicolor.iloc[:,2], virginica.iloc[:,2]]
 petal_width = [setosa.iloc[:,3], versicolor.iloc[:,3], virginica.iloc[:,3]]
 ```
 
-Under input 25 and input 40, only one variable was used to demonstate the plots.  A user can interact with these plots using the variables defined above.  Also not that axes and axis labels will also need to be amended.  See the below example of code and the plot rendered. 
+Under input 25 and input 40, only one variable was used to demonstate the plots.  A user can interact with these plots using the variables defined above.  Also note that axes and axis labels will also need to be amended.  See the below example of code and the plot rendered. 
 
 <br>
 
@@ -132,14 +132,6 @@ label = ["Setosa", "Versicplor", "Virginica"]
 # Plotting the histogram. 30 bins to show variation. Stacking the species. 
 plt.hist  (petal_length, bins = 30, stacked = True, label = label)
 
-# Setting a plot title
-plt.title("Petal Length for Iris Flowers")
-
-# Setting an X axis label
-plt.xlabel("Petal Length in cm")
-
-# Setting an Y axis label
-plt.ylabel("Frequency")
 
 # Applying a grid (behind the bars as set in parameters)
 plt.grid()
